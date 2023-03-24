@@ -1,2 +1,0 @@
-# mykosmosandmydream
-You are kosmos
