@@ -1,0 +1,140 @@
+* {
+    outline: 1px solid range
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.kontakty{
+    display: block;
+    width: 1280px;
+    height: 100px;
+    display: flex;
+}
+.ikon{
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 35;
+}
+.spisoc{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    margin-right: 40;
+    list-style: none;
+}
+.il{
+    margin-right: 60px;
+
+}
+.iphonchik{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 520;
+    list-style: none;
+}
+.zagolovok{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 1200px;
+    height: 100px;
+    color: aliceblue;
+    border: 5px solid green;
+
+}
+
+.ratata{
+    margin: 0 auto;
+    width: 1280px;
+    height: 699px;
+    border: 5px solid red;
+    background-color: #222222;
+
+}
+
+.btn{
+    display: block;
+    width: 195px;
+    color: #222222;
+    font-size: 20;
+    font-weight: bold;
+    line-height: 50px;
+    padding: 0 40px;
+    border: none;
+    border-radius: 50px;
+    background-color: #feca30;
+    background-repeat:no-repeat ;
+    background-image: url(right-arrow-dark.png);
+    background-position: 220px 17px;
+}
+.main-site{
+    display: flex;
+    margin: 0 auto;
+    padding: 0;
+    width: 1280px;
+    background-color: #181818;
+}
+.vay{
+    display: flex;
+    color: white;
+    list-style: none;
+}
+.main-site2{
+    margin: 0 auto;
+    padding: 0;
+    width: 1280px;
+    height: 800px;
+    background-color: #ffffff;
+}
+h2{
+    text-align: center;
+}
+.map{
+    display: flex;
+    margin-left: 7%;
+}
+.text{
+    margin-left: 7%;
+    margin-right: 7%;
+    font-size: 20px;
+    font-family: "Consolas";
+}
+.vechi{
+    display: flex;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+    font-size: 20px;
+    font-family: "Consolas";
+}
+h3{
+    display: block;
+    text-align: start;
+}
+.spisoc1{
+    list-style: none;
+}
+.spisoc2{
+    list-style: none;
+}
+.zogolovok2{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-top: 60px;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+
+    height: 500px;
+    width: 1280px;
+    color: #ffffff;
+
+    background-image: url(moon-rocket.png);
+    background-repeat: no-repeat;
+    background-position: 720px 30px;
+
+}
